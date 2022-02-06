@@ -1,7 +1,7 @@
 # go-redis-url-shortning-service
 
 
-It is a URL shortening service, made with Go + Fiber + Redis and used docker for running it. <br/>
+It is a URL shortening service, made with Go + Fiber + Redis and used docker for building it. <br/>
 
 # command to run ---> docker-compose up --build -d <br/>
 
