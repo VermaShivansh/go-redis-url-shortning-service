@@ -3,7 +3,7 @@
 
 It is a URL shortening service app, made with Go + Fiber + Redis and used docker for running it.
 
-command to run ---> docker-compose up --build -d
+command to run ---> docker-compose up --build -d <br/>
 Go-->App exposed on PORT 3000
 Redis Server exposed on PORT 6307
 
